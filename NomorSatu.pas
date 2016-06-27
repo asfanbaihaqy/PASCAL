@@ -1,6 +1,5 @@
-program NomorSatu;
+program pascal;
 
-{$mode objfpc}{$H+}
 
 uses crt;
 var L,T,S1,S2,S3:Real;
